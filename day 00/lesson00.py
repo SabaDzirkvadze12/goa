@@ -1,8 +1,8 @@
-print("day 1 homework")
+
 from turtle import *
 
 width(7)
-speed(3)
+speed(1)
 forward(200)
 left(90)
 
@@ -62,8 +62,6 @@ forward(50)
 exitonclick()
 
 
-
-print(5>2)
 
 
 

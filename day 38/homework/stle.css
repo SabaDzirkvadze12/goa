@@ -1,0 +1,8 @@
+body{
+    Display: flex;
+    Width: 100%;
+    Min-height: 100vh;
+    Height: auto;
+    Justify-content: center;
+    Align-items: center;
+ }

@@ -16,7 +16,7 @@ def subtract(num1, num2):
 def multiply(num1, num2):
    return num1 + num2
 
-def divide(nim1, num2 ):
+def divide(num1, num2 ):
    return num1 / num2
 
 print(add(3,4))
